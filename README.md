@@ -38,11 +38,11 @@ Durante o desenvolvimento deste aplicativo, tive a oportunidade de:
 ## 🎥 Demonstração
 
 ### 📹 Vídeo do App em Execução
-[Link para o vídeo de demonstração](https://github.com/giuliano15/AppPokemonApi/issues/1#issue-2762509476/)
+[Link para o vídeo de demonstração](https://github.com/user-attachments/assets/b9f9f242-a5e6-49b3-82a5-6acfe0c8629a)
 
 <p align="center">
   <video width="400" controls>
-    <source src="https://github.com/giuliano15/AppPokemonApi/issues/1#issue-2762509476/" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/b9f9f242-a5e6-49b3-82a5-6acfe0c8629a" type="video/mp4">
     Seu navegador não suporta a exibição de vídeos.
   </video>
 </p>
